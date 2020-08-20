@@ -60,7 +60,7 @@ include "connection.php";
                  } 
                  else{
                    $('#namelist1').fadeOut();
-                   $('#namelist1').html("";)
+                   $('#namelist1').html("");
                  }
                  }); 
                  $(document).on('click', 'li', function()
@@ -107,7 +107,7 @@ include "connection.php";
                  } 
                  else{
                    $('#namelist2').fadeOut();
-                   $('#namelist2').html("";)
+                   $('#namelist2').html("");
                  }
                  }); 
                  $(document).on('click', 'li', function()
